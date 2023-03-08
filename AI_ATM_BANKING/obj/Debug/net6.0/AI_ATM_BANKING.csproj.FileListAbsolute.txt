@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\bin\Debug\net6.0\AI_ATM_BANKING.exe
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\bin\Debug\net6.0\AI_ATM_BANKING.deps.json
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\bin\Debug\net6.0\AI_ATM_BANKING.runtimeconfig.json
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\bin\Debug\net6.0\AI_ATM_BANKING.dll
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\bin\Debug\net6.0\AI_ATM_BANKING.pdb
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.AssemblyInfo.cs
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.dll
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\refint\AI_ATM_BANKING.dll
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.pdb
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\AI_ATM_BANKING.genruntimeconfig.cache
+C:\Users\andre\source\repos\ATM_Banking\AI_ATM_BANKING\obj\Debug\net6.0\ref\AI_ATM_BANKING.dll
